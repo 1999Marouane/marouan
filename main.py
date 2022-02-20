@@ -22,4 +22,5 @@ student_2 = Student("islam", 30, ['css', 'html'])
 print(student_2.X())
 
 print("tes")
+print("test")
 
